@@ -1,0 +1,36 @@
+{
+  "name": "cdnjs.api.live.search.app",
+  "version": "1.0.0",
+  "description": "cdnjs-api-live-search-app",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeal185/cdnjs-api-live-search-app.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "ben eaves",
+  "license": "MIT",
+  "homepage": "https://github.com/angeal185/cdnjs-api-live-search-app",
+  "devDependencies": {
+    "chalk": "^1.1.3",
+    "gulp": "^3.9.1",
+	"gulp-coffee": "^2.3.4",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-notify": "^3.0.0",
+	"gulp-stylus": "^2.6.0",
+    "gulp-uglify": "^2.0.1",
+    "gulp-util": "^3.0.8",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1",
+    "node-static": "^0.7.9",
+    "require-dir": "^0.3.2"
+  }
+}
